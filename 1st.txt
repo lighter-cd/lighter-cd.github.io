@@ -1,0 +1,15 @@
+翻墙
+
+基于 hexo 的 静态 blog
+    OK.logo替换
+    OK.订阅功能未工作
+    OK.网站地图功能未工作
+    OK.搜索功能未工作
+    OK.评论
+        LATER.Gitment
+    OK.友链
+    如何被百度收录
+
+基于 react.js 的 php后台动态blog
+    动态页面如何被百度收录。
+
