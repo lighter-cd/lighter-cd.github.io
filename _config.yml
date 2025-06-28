@@ -103,5 +103,5 @@ theme: landscape
 deploy:
   type: git
   repo:
-    github: https://github.com/lighter-cd.github.io.git
+    github: https://github.com/lighter-cd/lighter-cd.github.io.git
   branch: gh-pages
