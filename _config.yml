@@ -8,7 +8,7 @@ subtitle: '方案无限好，只是时间少'
 description: ''
 keywords: Blog, C/C++, C#, Php, Flutter, Unity, Programming
 author: 打火机
-language: zh-CN
+language: zh-CN  # 指定语言，会影响主题显示的语言，按需修改
 timezone: Asia/Shanghai
 
 # URL
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: fluid  # 指定主题
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
