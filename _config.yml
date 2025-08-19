@@ -119,3 +119,16 @@ deploy:
   repo:
     github: https://github.com/lighter-cd/lighter-cd.github.io.git
   branch: gh-pages
+
+# 多语言生成器配置
+multilingual:
+  default: zh-CN
+  languages:
+    zh-CN:
+      path: zh
+      title: 野生老码农
+      subtitle: 方案无限好，只是时间少
+    en:
+      path: en
+      title: Wild Coder
+      subtitle: Infinite solutions, limited time

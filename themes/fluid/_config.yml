@@ -1127,3 +1127,15 @@ static_prefix:
   hint: https://lib.baomitu.com/hint.css/2.7.0/
 
   moment: https://lib.baomitu.com/moment.js/2.29.4/
+
+# 添加语言切换链接
+menu:
+  home:
+    key: home
+    link: /
+  zh-CN:
+    key: zh-CN
+    link: /zh/
+  en:
+    key: en
+    link: /en/
