@@ -67,7 +67,21 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  项目: projects
+  笔记: notes
+  爱好: hobbies
+  拖延症: procrastination
+  生活: life
 tag_map:
+  AI: ai
+  游戏: games
+  前端: frontend
+  后端: backend
+  编程语言: programming-languages
+  思路: thoughts
+  音乐: music
+  吉他: guitar
+  生活: life
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
