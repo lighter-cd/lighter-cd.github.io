@@ -4,8 +4,8 @@
 
 # Site
 title: 野生老码农
-subtitle: '方案无限好，只是时间少'
-description: ''
+subtitle: 方案无限好，只是时间少。
+description: 
 keywords: Blog, C/C++, C#, Php, Flutter, Unity, Programming
 author: 打火机
 language: zh-CN  # 指定语言，会影响主题显示的语言，按需修改
@@ -119,16 +119,3 @@ deploy:
   repo:
     github: https://github.com/lighter-cd/lighter-cd.github.io.git
   branch: gh-pages
-
-# 多语言生成器配置
-multilingual:
-  default: zh-CN
-  languages:
-    zh-CN:
-      path: zh
-      title: 野生老码农
-      subtitle: 方案无限好，只是时间少
-    en:
-      path: en
-      title: Wild Coder
-      subtitle: Infinite solutions, limited time

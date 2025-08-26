@@ -1,5 +1,10 @@
+fluid 主题使用 npm 安装方式，项目只拷贝 _config.fluid.yml 作为配置。
+图片放在 source/img 目录下。
+
 ok. 首页副标题
 ok. 分类 类别列表
 ok. 修正关于页面
+ok. 更换首页图片
 . 多语言
-. 更换首页图片
+    hexo-multiple-language-generate
+hexo-multiple-language-generate hexo-theme-fluid
